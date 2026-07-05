@@ -1,0 +1,6 @@
+aiogram==2.25.1
+motor
+pymongo
+flask
+flask-cors
+python-dotenv

@@ -5,3 +5,4 @@ flask
 flask-cors
 python-dotenv
 requests
+flask[async]

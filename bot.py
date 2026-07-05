@@ -17,7 +17,7 @@ from bson import ObjectId
 API_TOKEN = '8162462190:AAFqdr69Et6tQ4_CvW3OjNjniu8yz056TCM'
 MONGO_URL = 'mongodb+srv://roxiw19528:roxiw19528@cluster0.vl508y4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
 ADMIN_ID = 7120801813 # আপনার টেলিগ্রাম আইডি
-APP_URL = "https://your-app-link.vercel.app" # আপনার ডিপ্লয় করা লিংক
+APP_URL = "https://bongobdbot.onrender.com" # আপনার ডিপ্লয় করা লিংক
 
 # --- DATABASE SETUP ---
 client = AsyncIOMotorClient(MONGO_URL)

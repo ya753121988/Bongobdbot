@@ -1,8 +1,8 @@
 aiogram==2.25.1
 motor
 pymongo
-flask
-flask-cors
+quart
+quart-cors
 python-dotenv
 requests
-flask[async]
+aiohttp

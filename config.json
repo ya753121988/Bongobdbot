@@ -1,6 +1,5 @@
 {
-  "welcome_msg": "✨ WELCOME TO VIRAL VIDEO BOT ✨",
+  "welcome_msg": "✨ WELCOME TO VIRAL VIDEO BOT ✨\n\nআপনাকে অবশ্যই আমাদের সকল চ্যানেলে জয়েন করতে হবে ✅",
   "daily_limit": 30,
-  "admin_id": 12345678,
-  "theme": "pink_dark"
+  "admin_id": 12345678
 }

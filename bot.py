@@ -15,8 +15,8 @@ from bson import ObjectId
 
 # --- CONFIGURATION ---
 API_TOKEN = 'আপনার_বট_টোকেন'
-MONGO_URL = 'আপনার_মংগোডিবি_ইউআরএল'
-ADMIN_ID = 12345678 # আপনার টেলিগ্রাম আইডি
+MONGO_URL = 'mongodb+srv://roxiw19528:roxiw19528@cluster0.vl508y4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
+ADMIN_ID = 7120801813 # আপনার টেলিগ্রাম আইডি
 APP_URL = "https://your-app-link.vercel.app" # আপনার ডিপ্লয় করা লিংক
 
 # --- DATABASE SETUP ---
